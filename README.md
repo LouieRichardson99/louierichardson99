@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey, I'm Louie! 🙋🏼‍♂️
+
+![Louie Richardson](https://user-images.githubusercontent.com/60019261/149426015-dd2dbf78-30f5-4af0-ac96-87c6079f52b8.gif)
