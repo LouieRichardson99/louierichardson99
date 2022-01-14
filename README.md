@@ -1,20 +1,21 @@
-### Hi there 👋
-
-<!--
-**LouieRichardson99/louierichardson99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Frame 1](https://user-images.githubusercontent.com/60019261/149430583-f2d54132-42da-4141-a1a3-9306adef383a.png)
 
 # Hey, I'm Louie! 🙋🏼‍♂️
+I am a full-stack web developer specialising in React, Next.js, and Node.js. 
 
-![Louie Richardson](https://user-images.githubusercontent.com/60019261/149426015-dd2dbf78-30f5-4af0-ac96-87c6079f52b8.gif)
+### 🔭 I’m currently working on
+- Providing exceptional front-end development [@skyward-digital](https://github.com/skyward-digital)
+- Getting involved in the Web3 space by helping to develop [@MetaFam](https://github.com/MetaFam)
+
+### 🌱 I’m currently learning
+- TypeScript
+- Chakra UI
+
+### 👯 I’m looking to collaborate on
+- Web3 projects for example, landing pages for DAOs.
+- JAMstack websites (Next.js, Prismic)
+
+### 📫 How to reach me
+The best place to reach me is Twitter [@louie_rich99](https://twitter.com/Louie_Rich99)
+
+
