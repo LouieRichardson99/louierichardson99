@@ -5,14 +5,11 @@ I am a full-stack web developer specialising in React, Next.js, and Node.js.
 
 ### 🔭 I’m currently working on
 - Providing exceptional front-end development [@skyward-digital](https://github.com/skyward-digital)
-- Getting involved in the Web3 space by helping develop [@MetaFam](https://github.com/MetaFam)
 
 ### 🌱 I’m currently learning
 - TypeScript
-- Chakra UI
 
 ### 👯 I’m looking to collaborate on
-- Web3 projects for example, landing pages for DAOs.
 - JAMstack websites (Next.js, Prismic)
 
 ### 📫 How to reach me
