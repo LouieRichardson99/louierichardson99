@@ -10,7 +10,7 @@ I am a full-stack web developer specialising in React, Next.js, and Node.js.
 - TypeScript
 
 ### 👯 I’m looking to collaborate on
-- JAMstack websites (Next.js, Prismic)
+- JAMstack websites (Next.js, Prismic/Sanity)
 
 ### 📫 How to reach me
 The best place to reach me is Twitter [@louie_rich99](https://twitter.com/Louie_Rich99)
