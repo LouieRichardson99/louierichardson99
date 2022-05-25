@@ -4,7 +4,7 @@
 I am a full-stack web developer specialising in React, Next.js, and Node.js. 
 
 ### 🔭 I’m currently working on
-- Providing exceptional front-end development [@skyward-digital](https://github.com/skyward-digital)
+- Freelance front-end development for [@skyward-digital](https://github.com/skyward-digital)
 
 ### 🌱 I’m currently learning
 - TypeScript
