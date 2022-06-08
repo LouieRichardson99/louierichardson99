@@ -1,4 +1,4 @@
-![GitHub Banner](https://user-images.githubusercontent.com/60019261/149766958-9142fb38-bfac-4afd-a38a-8b1382f5984a.png)
+![GitHub Banner](https://user-images.githubusercontent.com/60019261/172589325-89c9f673-6c53-40af-96d6-366d7065571a.png)
 
 # Hey, I'm Louie! 🙋🏼‍♂️
 I am a full-stack web developer specialising in React, Next.js, and Node.js. 
