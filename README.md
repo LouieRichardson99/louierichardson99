@@ -11,4 +11,4 @@ I am a full-stack web developer specialising in React, Next.js, and Node.js.
 - JavaScript/TypeScript development
 
 ### 📫 How to reach me
-The best place to reach me is Twitter [@louie_rich99](https://twitter.com/Louie_Rich99)
+The best place to reach me is Twitter [@louie_rich99](https://twitter.com/Louie_Rich99) or visit my [Contact Page](https://louierichardson.com/contact).
