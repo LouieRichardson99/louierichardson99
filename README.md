@@ -1,4 +1,4 @@
-![GitHub Banner](https://user-images.githubusercontent.com/60019261/180005933-43d53aa1-5366-408f-86f9-8ce80fdc8b3e.png)
+![GitHub Banner](https://user-images.githubusercontent.com/60019261/180638068-5a1206df-d06d-43aa-b262-62bd5eb4bd63.png)
 
 # Hey, I'm Louie! 🙋🏼‍♂️
 I am a full-stack web developer specialising in React, Next.js, and Prismic CMS. 
