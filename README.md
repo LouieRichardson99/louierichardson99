@@ -1,17 +1,16 @@
-![GitHub Banner](https://user-images.githubusercontent.com/60019261/180638068-5a1206df-d06d-43aa-b262-62bd5eb4bd63.png)
+# Front-end Developer 🙋🏼‍♂️
+Hey, I'm Louie, a front-end developer at Bump Digital. I have experience creating marketing sites and web applications using cutting-edge technologies. 
 
-# Hey, I'm Louie! 🙋🏼‍♂️
-I am a full-stack web developer specialising in React, Next.js, and Prismic CMS. 
+I've worked with digital agencies as a front-end developer; collaborating with multiple stakeholders, including developers and designers, which has allowed me to deliver high-quality results to clients.
+
+I love working with Jamstack technologies, so I possess a set of tech skills which include: HTML5, CSS3, JavaScript (TypeScript), React and Next.js.
 
 ### 🌱 I’m currently learning
-- Design & Animation
-
-### 👯 I’m looking to collaborate on
-- Jamstack websites (Next.js, Prismic)
-- JavaScript/TypeScript development
+- Umbraco CMS
+- C# and .NET
 
 ### 🚀 Website
-Why not check out my website at [louierichardson.com](https://louierichardson.com)!
+Visit my website - [louierichardson.com](https://louierichardson.com)
 
 ### 📫 How to reach me
-The best place to reach me is through my [Contact Page](https://louierichardson.com/contact), or direct message me on Twitter [@louie_rich99](https://twitter.com/Louie_Rich99).
+The best place to reach me is via email - [louie@louierichardson.com](mailto:louierichardson.com)
