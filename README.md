@@ -1,9 +1,9 @@
 # Front-end Developer 🙋🏼‍♂️
-Hey, I'm Louie, a front-end developer at Bump Digital. I have experience creating marketing sites and web applications using cutting-edge technologies. 
+I'm a front-end developer with a curious mind, leading me down a rabbit hole of playing around and experimenting with all the latest JavaScript frameworks.
 
-I've worked with digital agencies as a front-end developer; collaborating with multiple stakeholders, including developers and designers, which has allowed me to deliver high-quality results to clients.
+I work at Bump Digital, an Umbraco Gold Partner agency. My tech stack includes HTML, CSS (SCSS), JavaScript (ES6+), C#/.NET, and Umbraco CMS. I also work with JavaScript frameworks such as Vue.js and Astro.
 
-I love working with Jamstack technologies, so I possess a set of tech skills which include: HTML5, CSS3, JavaScript (TypeScript), React and Next.js.
+Occasionally, I speak at conferences and meetups. I love to get on stage and share my enthusiam for modern web development to like-minded individuals.
 
 ### 🌱 I’m currently learning
 - Umbraco CMS
