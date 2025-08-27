@@ -6,7 +6,7 @@ I work at Bump Digital, an Umbraco Gold Partner agency. My tech stack includes H
 Occasionally, I speak at conferences and meetups. I love to get on stage and share my enthusiasm for modern web development to like-minded individuals.
 
 ### 👷🏻‍♂️ I’m currently building
-[Astrolab](https://github.com/LouieRichardson99/astrolab)
+[Astrolab](https://github.com/LouieRichardson99/astrolab) - Build Astro components in isolation
 
 ### 🚀 Website
 Visit my website - [louierichardson.com](https://louierichardson.com)
