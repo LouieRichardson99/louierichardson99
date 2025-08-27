@@ -5,9 +5,8 @@ I work at Bump Digital, an Umbraco Gold Partner agency. My tech stack includes H
 
 Occasionally, I speak at conferences and meetups. I love to get on stage and share my enthusiasm for modern web development to like-minded individuals.
 
-### 🌱 I’m currently learning
-- Umbraco CMS
-- C# and .NET
+### 👷🏻‍♂️ I’m currently building
+- [astrolab](https://github.com/LouieRichardson99/astrolab)
 
 ### 🚀 Website
 Visit my website - [louierichardson.com](https://louierichardson.com)
